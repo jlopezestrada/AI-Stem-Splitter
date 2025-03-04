@@ -4,7 +4,7 @@ scikit-learn==1.6.1
 tensorflow==2.18.0
 pandas==2.2.3
 stempeg==0.2.3
-matplotlib==3.10.0
+matplotlib==3.10.1
 ipykernel==6.29.5
 ffmpeg-python==0.2.0
 ffprobe==0.5
