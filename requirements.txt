@@ -1,6 +1,6 @@
 librosa==0.11.0
 numpy==2.3.5
-scikit-learn==1.6.1
+scikit-learn==1.8.0
 tensorflow==2.20.0
 pandas==2.3.3
 stempeg==0.2.6
